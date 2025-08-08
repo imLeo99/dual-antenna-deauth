@@ -63,11 +63,7 @@ Never power this in open-air environments or populated areas.
 
 ## Contributions
 
-Feel free to fork and modify for your own research, but always remember:
-
-> With great power comes great responsibility.
-
----
+Feel free to fork and modify for your own research
 
 ## License
 
