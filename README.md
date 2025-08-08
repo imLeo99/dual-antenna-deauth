@@ -11,7 +11,7 @@ Transmitting constant carrier signals and hopping channels intentionally can int
 
 ---
 
-## 📡 Project Overview
+## Project Overview
 
 This project uses an **E@#?** microcontroller and an **N?!??@?#?#** wireless module to generate deliberate RF interference.  
 It works by:
@@ -23,7 +23,7 @@ This creates a wideband RF noise effect that can be used to test how other **N?!
 
 ---
 
-## 🔥 Why It's More Powerful Than a Typical Single-Signal Interferer
+## Why It's More Powerful Than a Typical Single-Signal Interferer
 
 Compared to basic single-channel RF noise tools, this generator:
 
@@ -35,7 +35,7 @@ This makes it significantly more effective at testing the robustness of wireless
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - One **E@#?** microcontroller (e.g., with Wi-Fi/Bluetooth capabilities)
 - One **N?!??@?#?#** module (2.4GHz transceiver)
@@ -44,7 +44,7 @@ This makes it significantly more effective at testing the robustness of wireless
 
 ---
 
-## 🚧 Warning: Use in Shielded Environments Only
+## Warning: Use in Shielded Environments Only
 
 This is **not** a toy or a prank tool.  
 Only use this inside a **Faraday cage** or a fully **shielded lab setup** to avoid unintended RF pollution.  
@@ -52,7 +52,7 @@ Never power this in open-air environments or populated areas.
 
 ---
 
-## 🧪 Purpose
+## Purpose
 
 - Academic RF protocol testing  
 - Wireless robustness experiments  
@@ -61,7 +61,7 @@ Never power this in open-air environments or populated areas.
 
 ---
 
-## ✅ Contributions
+## Contributions
 
 Feel free to fork and modify for your own research, but always remember:
 
@@ -69,7 +69,7 @@ Feel free to fork and modify for your own research, but always remember:
 
 ---
 
-## 📄 License
+## License
 
 MIT License.  
 This software is provided **as-is**, with no warranties or guarantees.  
