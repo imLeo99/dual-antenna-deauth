@@ -10,4 +10,5 @@ By using two independent transceivers, the system can operate on different **2.4
 - **More effective interference testing**  
 - **Dynamic channel switching** (alternating between random and sequential modes every 3 seconds)  
 
-⚠️ **Note:** This setup requires proper wiring of both SPI buses and should only be tested in a **controlled environment**.  
+⚠️ **Note:** This setup requires proper wiring of both SPI buses and should only be tested in a **controlled environment**
+ 
